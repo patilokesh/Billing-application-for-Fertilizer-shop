@@ -1,0 +1,19 @@
+#Fertilizer
+GreenMax All-Purpose Plant Food - Rs.953.99
+GreenMax Lawn Fertilizer - Rs.1225.99
+GreenMax Bloom Booster - Rs.1445.99
+TurboGrow High Nitrogen Fertilizer - Rs.864.99
+TurboGrow Phosphorus-Rich Plant Food - Rs.1105.99
+TurboGrow Potassium Boost Fertilizer - Rs.1326.99
+PowerPlant General Purpose Fertilizer - Rs.1045.99
+PowerPlant Slow-Release Lawn Food - Rs.1364.99
+PowerPlant Flowering Plant Formula - Rs.1562.99
+SuperGrow Balanced NPK Fertilizer - Rs.901.99
+SuperGrow Citrus Tree Fertilizer - Rs.1201.99
+SuperGrow Orchid Fertilizer - Rs.1400.99
+GreenTech All-In-One Plant Food - Rs.1125.99
+GreenTech Controlled-Release Lawn Fertilizer - Rs.1444.99
+GreenTech Premium Flowering Formula - Rs.1670.99
+UltraFeed High Nitrogen Plant Food - Rs.1000.99
+UltraFeed Phosphorus Boost Fertilizer - Rs.1321.99
+UltraFeed Potassium-Rich Lawn Fertilizer - Rs.1545.99

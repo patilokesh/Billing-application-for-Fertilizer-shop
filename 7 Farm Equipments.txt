@@ -1,0 +1,19 @@
+#Farm Equipments
+AgriTech Power Tiller - 150,000 INR
+AgriTech Sprayer - 20,000 INR
+AgriTech Cultivator - 30,000 INR
+HarvestPro Combine Harvester - 1,200,000 INR
+HarvestPro Tractor - 800,000 INR
+HarvestPro Seed Drill - 100,000 INR
+GreenField Disc Plough - 50,000 INR
+GreenField Rotavator - 80,000 INR
+GreenField Trailer - 60,000 INR
+FarmMaster Power Sprayer - 25,000 INR
+FarmMaster Power Weeder - 40,000 INR
+FarmMaster Paddy Transplanter - 200,000 INR
+AgroTech Zero Till Seed Drill - 120,000 INR
+AgroTech Boom Sprayer - 30,000 INR
+AgroTech Farm Trailer - 50,000 INR
+SoilMaster Rotary Tiller - 70,000 INR
+SoilMaster Subsoiler - 90,000 INR
+SoilMaster Land Leveler - 40,000 INR

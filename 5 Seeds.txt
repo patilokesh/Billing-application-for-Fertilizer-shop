@@ -1,0 +1,19 @@
+#Seeds
+AgriSeeds Hybrid Maize Seeds - 150 INR  
+AgriSeeds Paddy Seeds - 120 INR  
+AgriSeeds Vegetable Seeds - 80 INR 
+GreenThumb Lawn Grass Seeds - 100 INR  
+GreenThumb Flower Seeds - 50 INR  
+GreenThumb Herb Seeds - 60 INR  
+SeedMaster Wheat Seeds - 80 INR  
+SeedMaster Mustard Seeds - 100 INR  
+SeedMaster Oilseed Crop Seeds - 120 INR  
+GrowWell Tomato Seedlings - 30 INR  
+GrowWell Fruit Tree Saplings - 150 INR  
+GrowWell Ornamental Plant Cuttings - 20 INR  
+HarvestPro Hybrid Vegetable Seeds - 60 INR  
+HarvestPro Cereal Crop Seeds - 90 INR  
+HarvestPro Medicinal Plant Seeds - 40 INR  
+FarmFresh Organic Seeds - 80 INR  
+FarmFresh Fruit Plant Saplings - 200 INR  
+FarmFresh Flower Bulbs - 60 INR  

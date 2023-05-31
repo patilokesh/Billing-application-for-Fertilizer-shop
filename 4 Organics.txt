@@ -1,0 +1,19 @@
+#Organics
+OrganicHarvest Organic Manure - 150 INR
+OrganicHarvest Biopesticide - 200 INR
+OrganicHarvest Plant Growth Promoter - 180 INR
+BioGrow Organic Compost - 180 INR
+BioGrow Neem Oil - 150 INR
+BioGrow Seaweed Extract - 220 INR
+Nature'sBest Vermicompost - 200 INR
+Nature'sBest Liquid Fish Fertilizer - 180 INR
+Nature'sBest Soil Conditioner - 150 INR
+GreenLife Organic Soil Amendment - 150 INR
+GreenLife Neem Cake - 180 INR
+GreenLife Liquid Seaweed Fertilizer - 200 INR
+PureEarth Organic Biostimulant - 180 INR
+PureEarth Biofertilizer - 150 INR
+PureEarth Fish Amino Acid - 220 INR
+EarthWise Organic Soil Enhancer - 200 INR
+EarthWise Neem Oil Insecticide - 220 INR
+EarthWise Plant Tonic - 180 INR
